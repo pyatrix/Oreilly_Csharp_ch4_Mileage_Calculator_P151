@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chapter4_Mileage_Calculator", "chapter4_Mileage_Calculator\chapter4_Mileage_Calculator.csproj", "{9F26BC84-9AB6-491B-B7DA-CADC67F89F77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oreilly_Csharp_ch4_Mileage_Calculator_P151", "Oreilly_Csharp_ch4_Mileage_Calculator_P151\Oreilly_Csharp_ch4_Mileage_Calculator_P151.csproj", "{9F26BC84-9AB6-491B-B7DA-CADC67F89F77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
